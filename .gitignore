@@ -1,0 +1,9 @@
+Library/
+Temp/
+*.sln
+*.csproj
+*.userprefs
+*.unityproj
+.vs/
+obj/
+Assembly-CSharp.csproj.user
